@@ -1,3 +1,1 @@
-from hello_chai import chai
-
-chai("Green Tea")
+print("Hello, WORLD")
